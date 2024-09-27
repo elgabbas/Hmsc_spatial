@@ -1,4 +1,4 @@
-# Results for Germany
+# Convergence of Germany models
 
 - Study area: Germany (3,350 grid cells)
 - 102 species
