@@ -6,6 +6,8 @@
 - thinning = 30 / transient = 30\*500 / samples: 1000
 - 4 Chains
 
+---
+
 ## 493 knots spaced by 30 km
 
 ![image](https://github.com/user-attachments/assets/6c522184-8e4c-4faf-91a3-fbc56c1a64e2)
