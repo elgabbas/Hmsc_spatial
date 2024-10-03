@@ -4,7 +4,7 @@
 - 4 chains (HPC) / 6 chains (R)
 - thinning: 30 (HPC) / 10 (R)
 
-<img src="https://github.com/user-attachments/assets/3790c3dc-2094-4a85-9b35-d4bfbc0e0686" width="260"/> <img src="https://github.com/user-attachments/assets/6c522184-8e4c-4faf-91a3-fbc56c1a64e2" width="285"/>
+<img src="https://github.com/user-attachments/assets/3790c3dc-2094-4a85-9b35-d4bfbc0e0686" width="390"/> <img src="https://github.com/user-attachments/assets/6c522184-8e4c-4faf-91a3-fbc56c1a64e2" width="425"/>
 
 ---
 
