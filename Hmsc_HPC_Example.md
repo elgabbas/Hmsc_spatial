@@ -1,4 +1,4 @@
-# GPP models - 40 species
+# GPP models
 
 - Data from [Rahman et al. 2024](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011914) and [Tikhonov et al. 2020](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.2929)
 - only GPP models
