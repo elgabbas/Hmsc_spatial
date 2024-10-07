@@ -8,6 +8,8 @@
 
 <br/>
 
+The study area, as shown in Tikhonov et al. 2020. The map shows 1,024 knots, only 55 were used in Rahman et al. 2024.
+
 ![image](Figures/StudySites2.jpg)
 
 ---
@@ -20,12 +22,16 @@
 
 - [622 species](Hmsc_HPC_Example_622Sp.md)
 
----
-
 <br/>
+
+## Sampling units
+
+9 options for the sampling units used in the models.
 
 ![image](Figures/StudySites.jpg)
 
 <br/>
+
+## Results of Rahman et al. 2024
 
 ![image](Figures/Rahman_Results.PNG)
