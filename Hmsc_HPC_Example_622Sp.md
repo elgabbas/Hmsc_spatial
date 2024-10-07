@@ -1,4 +1,4 @@
-# Results for GPP models - 622 species at different numbers sampling units
+# Results for GPP models - 622 species at different numbers of sampling units
 
 ## 100 sampling units
 
